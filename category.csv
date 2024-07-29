@@ -8,3 +8,5 @@ cat6,publishing
 cat7,games
 cat8,photography
 cat9,journalism
+
+git rm category.csv
