@@ -10,3 +10,4 @@ cat8,photography
 cat9,journalism
 
 git rm category.csv
+git commit -m "category.csv"
